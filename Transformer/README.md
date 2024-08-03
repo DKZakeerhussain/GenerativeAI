@@ -23,4 +23,5 @@ The Transformer architecture is composed of an encoder and a decoder, each with 
 - **Positional Encoding**: Adds information about the position of each word in the sequence.
 - **Layer Normalization and Residual Connections**: Improve training and convergence.
 
-![image.png](attachment:image.png)
+![image](https://github.com/user-attachments/assets/1ebf0078-7885-4c7e-99ed-ddf39a70ff57)
+
